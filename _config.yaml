@@ -1,33 +1,26 @@
 # Profile section
 profile:
-  first_name: Rodolfo
-  last_name: Ferro
-  picture: https://cdn.glitch.com/88028f3b-2a37-4207-9b84-e56ad97a9d3d%2Frodo_2021.png?v=1622471953248   # Hosted picture
+  first_name: Salvador
+  last_name: Hernandez
+  picture: https://picture.com.jpeg   # Hosted picture
   # picture: static/img/rodo_2021.png  # Local picture
   contact:
-    address_one: León, Guanajuato
+    address_one: Guadalajara, Jalisco
     address_two:
-    phone: (477) ASK-4-IT!
-  email: rodolfoferroperez@gmail.com
+    phone: (+52) CONTACT-ME-@!
+  email: salvadorhp@live.com
   description: |
-    I am a Machine Learning Engineer at Zetalabs S.L. (Spain) and I also collaborate as a Digital Sherpa for the national education program "Innovacción Virtual" with Microsoft Mexico.
-    
-    I've worked as a Python Dev at CloudLinux and served as a research assistant in applied AI at the Mathematics Research Center (CIMAT), part of the National Consortium of Science and Technology (CONACYT) in Mexico. 
-    
-    I participated in a research project during a summer internship (2017) at the Aspuru-Guzik Research Group, in the Department of Chemistry and Chemical Biology at Harvard University, working with applied machine learning for molecular properties prediction and calibration. 
-    
-    I am (currently) a Google Developer Expert in Machine Learning.
+    I am a technology lead passionate .
 
 
 # Social section
 social:
-  website: https://rodolfoferro.xyz
-  github: https://github.com/RodolfoFerro/
-  twitter: https://twitter.com/FerroRodolfo/
-  linkedin: https://www.linkedin.com/in/rodolfoferro/
+  website: https://salvadorhernandez.xyz
+  github: https://github.com/Shava11/
+  linkedin: https://www.linkedin.com/in/salvador-hernandez-b36673b6/
   facebook:
-  dev: https://dev.to/rodolfoferro
-  medium: https://medium.com/@FerroRodolfo
+  dev: 
+  medium: 
 
 
 # Experience section
