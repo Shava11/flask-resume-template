@@ -1,7 +1,7 @@
 # Profile section
 profile:
   first_name: Salvador
-  last_name: Hernandez
+  last_name: Hernandez Palencia
   picture: https://picture.com.jpeg   # Hosted picture
   # picture: static/img/rodo_2021.png  # Local picture
   contact:
@@ -151,19 +151,16 @@ community:
 tools:
   # Consider that the following are fa icons:
   #   https://fontawesome.com/icons?d=gallery&s=brands
-  - python
-  - markdown
-  - git-alt
+  - jira
+  - confluence
+  - miro
   - github
-  - docker
-  - digital-ocean
   - google
   - google-drive
   - slack
   - trello
   - apple
-  - linux
-  - raspberry-pi
+
 extra_skills:
   # - Facebook Messenger, Telegram, and SMS bots
   - Web scraping and web automation
