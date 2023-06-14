@@ -10,7 +10,9 @@ profile:
     phone: (+52) CONTACT-ME-@!
   email: salvadorhp@live.com
   description: |
-    I am a technology lead passionate .
+    I am an IT Lead passionate and motivated by the evolution and development of new technologies leading software development projects for 20 + years. 
+    Demonstrable experience in developing high-performing teams to deliver innovating solutions, leveraging agile frameworks to foster collaborative thinking, 
+    continuos improvement, technology and process changes to meet business needs.
 
 
 # Social section
@@ -26,10 +28,10 @@ social:
 # Experience section
 experience:
   item7:
-    position: ML Engineer
-    company: Zetalabs S.L.
-    from: March 2021
-    to: Present
+    position: Director of Technology & Community
+    company: Gorilla Logic
+    from: August 2022
+    to: Current
     description: >
       Leading the AI development team. Contributing with computer vision tasks for company's product.
     link: http://codeandomexico.org/
