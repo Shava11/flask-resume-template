@@ -36,36 +36,37 @@ experience:
       My role is critical for driving Gorilla Logic business growth, manage teams and stablish strong relationships with Community Leads and other key stakeholders in Mexico. I’m responsible for overseeing and managing technology organization, including understanding the company's business goals and strategy, aligning technology strategy and direction to achieve those goals.
     link: https://gorillalogic.com/
   item6:
-    position: Community Leader
-    company: Codeando México
-    from: September 2019
-    to: February 2021
+    position: Delivery Manager
+    company: DigitalOnUs by Tech Mahindra 
+    from: March 2022
+    to: August 2022
     description: >
-      Codeando México mainly focuses on executing activities that connect society and governments, the usage of technologies and internet-based solutions for civic purposes.
-    link: http://codeandomexico.org/
+      My responsabilities for planning and executing projects to ensure successful delivery within defined timelines, budgets, and quality standards. This includes creating project plans, defining project scope and objectives, allocating resources, and monitoring progress. From Team Management and resource allocation to Client Relationship management where some of my responsibilities.
+    link: https://www.digitalonus.com/
   item5:
-    position: Open Data Coordinator
-    company: LAB León / General Direction of Innovation León
-    from: July 2018
-    to: September 2019
+    position: Platform & DevOps Manager
+    company: AstraZeneca
+    from: September 2018
+    to: March 2022
     description: >
-      Pushing efforts to open (and work with) data in the city. Helping the city with trainings for digital jobs, including programming courses on Python and web development.
+      People and Platform Manager, leading Release engineers and Test teams in Guadalajara GTC for the Commercial IT division. Responsible of implementing a Platform Delivery framework within the Business and technology deployment work stream leads, to configure and deploy the different environments for Salesforce and other different platforms, supporting the operation of how Campaigns and Commercialization of Pharma products operate on Health Industry.
+  link: http://www.astrazeneca.com
   item4:
-    position: AI Consultant
-    company: NULLSEC (Startup)
-    from: July 2019
-    to: September 2019
+    position: Project Delivery Manager
+    company: DXC Technology
+    from: December 2016
+    to: September 2018
     description: >
-      Working as an AI consultant for NULLSEC, a computer security company focused on ethical hacking. Particularly helping in the development of NullRansom, an analyzer-debugger software with the purpose of filtering TCP protocol requests, preventing preventively being targeted by malware and ransomware viruses.
-    link: http://www.nullsec.site
+      Responsible for planning and executing projects to ensure successful delivery within defined timelines, budgets, and quality standards. This includes creating project plans, defining project scope and objectives, allocating resources, and monitoring progress. From Team Management and resource allocation to Client Relationship management where some of my responsibilities.
+    link: https://dxc.com/us/en
   item3:
-    position: Lead ML Engineer
-    company: Omdena
-    from: May 2019
-    to: July 2019
+    position: IT Support Specialist
+    company: Hewlett-Packard Enterprise
+    from: April 2011
+    to: December 2016
     description: >
-      Lead ML engineer in Omdena's collaborative tree identification challenge to prevent fire outbursts. Contributed with the models developed and the data preprocessing (we develped a Python package for it).
-    link: https://medium.com/omdena/building-ai-for-good-by-the-people-for-the-people-d98ad78b5001
+      As an IT Support Specialist, I provided technical support to end-users for HP systems and applications. I was accountable of troubleshooting hardware and software issues, providing solutions to technical problems. System Maintenance and Upgrades by supporting other engineers responsible for applying software updates and patches, monitoring system performance, and performing regular backups including planning and executing system upgrades or migrations. .
+    link: http://hpe.com
   item2:
     position: Jr. Python Software Developer
     company: CloudLinux
@@ -73,6 +74,7 @@ experience:
     to: May 2019
     description: >
       In charge of building automation solutions with Python. The tech stack used includes Scrapy, Luigi, requests, and MongoDB.
+  link: http://hpe.com
   item1:
     position: AI Research Assistant
     company: Research Center in Mathematics (CIMAT A.C.)
