@@ -68,13 +68,13 @@ experience:
       As an IT Support Specialist, I provided technical support to end-users for HP systems and applications. I was accountable of troubleshooting hardware and software issues, providing solutions to technical problems. System Maintenance and Upgrades by supporting other engineers responsible for applying software updates and patches, monitoring system performance, and performing regular backups including planning and executing system upgrades or migrations. .
     link: http://hpe.com
   item2:
-    position: Jr. Python Software Developer
-    company: CloudLinux
-    from: February 2019
-    to: May 2019
+    position: Test Data Analyst
+    company: Tata Consultancy Services
+    from: October 2009
+    to: April 2011
     description: >
-      In charge of building automation solutions with Python. The tech stack used includes Scrapy, Luigi, requests, and MongoDB.
-  link: http://hpe.com
+      This was a critical role for the client I was assigned to, since it is the military bank in the USA: USAA, and I was in charge of creating and maintaining automated scripts using tools as LoadRunner and Quick Test Pro to generate Test Data for test purposes and avoid filtering production data from systems.
+  link: http://www.tcs.com
   item1:
     position: AI Research Assistant
     company: Research Center in Mathematics (CIMAT A.C.)
