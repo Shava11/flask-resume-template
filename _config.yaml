@@ -2,7 +2,8 @@
 profile:
   first_name: Salvador
   last_name: Hernandez Palencia
-  picture: https://picture.com.jpeg   # Hosted picture
+  picture: https://photos.google.com/photo/AF1QipPMqhQ0am-PrFpUaF5BwRy3qI7CHsUqVr24MBnt
+  #picture: https://picture.com.jpeg # Hosted picture
   # picture: static/img/rodo_2021.png  # Local picture
   contact:
     address_one: Guadalajara, Jalisco
@@ -31,9 +32,9 @@ experience:
     position: Director of Technology & Community
     company: Gorilla Logic
     from: August 2022
-    to: Current
+    to: January 2024
     description: >
-      My role is critical for driving Gorilla Logic business growth, manage teams and stablish strong relationships with Community Leads and other key stakeholders in Mexico. I’m responsible for overseeing and managing technology organization, including understanding the company's business goals and strategy, aligning technology strategy and direction to achieve those goals.
+      I performed a critical role for driving Gorilla Logic's business growth, manage teams and stablish strong relationships with Community Leads and other key stakeholders in Mexico. I was responsible for overseeing and managing technology organization, including understanding the company's business goals and strategy, aligning technology strategy and direction to achieve those goals. Some of my achievements include the successful implementation of technology projects such as the launch of the new Technology Portal and the integration of a documentation platform, which resulted in increased scalability and time savings for Learning and Development processes. To Promote and positioning Gorilla Logic’s brand as a trusted and recognized brand in Mexico by sponsoring different technology events to support the company growth in the IT sector. I Led and Managed the implementation of an automated data flow process for Skills Matrix resulting in more than 66% of time and cost savings and headcount redeployment.
     link: https://gorillalogic.com/
   item6:
     position: Delivery Manager
